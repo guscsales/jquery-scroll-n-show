@@ -17,7 +17,22 @@ git clone https://github.com/hebsix/jquery-scroll-n-show.git
     data-jss-easing="easeOutCubic"
     data-jss-spaceBetween="270">Foo</element>
 ```
- 
+```javascript
+$.scroll.nShow();
+```
+
+### Default values
+```javascript
+{
+    spaceBetween: 500,
+    duration: 500,
+    delay: 0,
+    easing: 'easeOutCubic',
+    cssTransitions: true
+};
+
+```
+
 ## Methods
     'refresh': reset the plugin
     'destroy': remove all effects used in plugin
