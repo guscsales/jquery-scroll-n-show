@@ -32,7 +32,7 @@ git clone https://github.com/hebsix/jquery-scroll-n-show.git
 
 ## Aditional Plugins:
 
-    Required if using jQuery Animation: jQuery Easing (By gdsmith, https://github.com/gdsmith/jquery.easing, thanks :D)
+Required if using jQuery Animation: jQuery Easing (By gdsmith, https://github.com/gdsmith/jquery.easing, thanks :D)
 
 ## About
 - Author: Gustavo Sales (http://github.com/hebsix)
